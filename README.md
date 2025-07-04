@@ -14,8 +14,9 @@ Gera um card com promoção, envia para Telegram e WhatsApp (MyZap) e roda no II
 ✅ WhatsApp autenticado no MyZap
 
 ## 📂 Estrutura
+
 promocoes_relampago/
-├── app.py
+├── app.py 
 ├── templates/
 │   └── index.html
 ├── logs/
@@ -29,7 +30,6 @@ promocoes_relampago/
 ├── requirements.txt
 ├── web.config
 └── LICENSE
-
 
 ## 📃 Licença
 MIT © Ale130979
