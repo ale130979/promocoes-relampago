@@ -13,14 +13,6 @@ Gera um card com promoção, envia para Telegram e WhatsApp (MyZap) e roda no II
 ✅ Bot no Telegram + Token  
 ✅ WhatsApp autenticado no MyZap
 
-## 📥 Instalação
-
-### 1️⃣ Python e dependências
-```bash
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-
 ## 📂 Estrutura
 promocoes_relampago/
 ├── app.py
@@ -37,3 +29,12 @@ promocoes_relampago/
 
 ## 📃 Licença
 MIT © Ale130979
+
+## 📥 Instalação
+
+### 1️⃣ Python e dependências
+```bash
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+
