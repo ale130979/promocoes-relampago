@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+jinja2
+pillow
+requests
+python-multipart
+python-telegram-bot==13.15
