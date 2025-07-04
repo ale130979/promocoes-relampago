@@ -15,13 +15,12 @@ Gera um card com promoção, envia para Telegram e WhatsApp (MyZap) e roda no II
 
 ## 📂 Estrutura
 promocoes_relampago/
-promocoes_relampago/
 ├── app.py
 ├── templates/
 │   └── index.html
 ├── logs/
-│   └── (vazio inicialmente)
-├── promoções.bat
+│   └── .gitkeep              # Para manter pasta vazia
+├── promocoes.bat
 ├── promocoes.ps1
 ├── promocoes.sh
 ├── subir_pro_github.bat
@@ -29,7 +28,8 @@ promocoes_relampago/
 ├── INSTALL.md
 ├── requirements.txt
 ├── web.config
-├── LICENSE
+└── LICENSE
+
 
 ## 📃 Licença
 MIT © Ale130979
