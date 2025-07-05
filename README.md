@@ -35,10 +35,10 @@ promocoes_relampago/
 MIT © Ale130979
 
 ## 📥 Instalação
-
-### 1️⃣ Python e dependências
+---
+## 1️⃣ Python e dependências
 ```bash
-python -m venv venv
+`python` -m venv venv
 venv\Scripts\activate
-pip install -r requirements.txt
-```
+'pip install -r requirements.txt' 
+ ```
